@@ -26,7 +26,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 [compat]
 Arpack = "0.3, 0.4"
 Clustering = "0.14"
-Compat = "3.6"
+Compat = "3.6, 4.18"
 Distributions = "0.23, 0.24"
 FileIO = "1.2"
 JLD2 = "0.2, 0.3"
